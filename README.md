@@ -1,4 +1,4 @@
 # testi
-#- etusivu
--etusivulle yläotsikko ja alaotsikko 
--Kuvituskuvia
+# - etusivu
+# -etusivulle yläotsikko ja alaotsikko 
+# -Kuvituskuvia
